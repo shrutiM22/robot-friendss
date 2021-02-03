@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/robot-friendss/static/css/main.86de20d1.chunk.css",
+    "main.js": "/robot-friendss/static/js/main.3b55118e.chunk.js",
+    "main.js.map": "/robot-friendss/static/js/main.3b55118e.chunk.js.map",
+    "runtime-main.js": "/robot-friendss/static/js/runtime-main.541686dd.js",
+    "runtime-main.js.map": "/robot-friendss/static/js/runtime-main.541686dd.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/robot-friendss/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.a98e99f0.chunk.js": "/robot-friendss/static/js/2.a98e99f0.chunk.js",
+    "static/js/2.a98e99f0.chunk.js.map": "/robot-friendss/static/js/2.a98e99f0.chunk.js.map",
+    "index.html": "/robot-friendss/index.html",
+    "precache-manifest.b6c82e2f3970ac0c0b9e33aa1a35aa5c.js": "/robot-friendss/precache-manifest.b6c82e2f3970ac0c0b9e33aa1a35aa5c.js",
+    "service-worker.js": "/robot-friendss/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/robot-friendss/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.86de20d1.chunk.css.map": "/robot-friendss/static/css/main.86de20d1.chunk.css.map",
+    "static/js/2.a98e99f0.chunk.js.LICENSE.txt": "/robot-friendss/static/js/2.a98e99f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.541686dd.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.a98e99f0.chunk.js",
+    "static/css/main.86de20d1.chunk.css",
+    "static/js/main.3b55118e.chunk.js"
+  ]
+}
